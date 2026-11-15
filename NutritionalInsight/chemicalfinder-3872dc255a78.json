@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chemicalfinder",
+  "private_key_id": "3872dc255a78eee294b177cab05d487ee3ba05ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCohSIBl+WEH9Xc\nI6FooMLdcQneN0wWzKhIifewOQQuUHUtQPJK8pMbP/pItVUiu/H9jAHft7CXHHWt\n3py3vXBcBroam//7DRu/ZMwF4PaBs9RxTikhaPNHf0Hao1CaT1kFMRuU32PNB6Km\nGwHqy2GqaK1MMiXcZ5OO22ZlJV1dU/jnRzY/UZbn+lb4owjH2O862Rdg1+EYxlxX\nLFJcf+RaZgfZf4fxJ6kl0sS+kqtltfrZZiVDMDlflHl2rnj5DxFb6BCHMzFBcEvx\nhjf9loDOUvHzzmxd1/vMubRyWKjpSM2fNl/O17/sWq1t+wig2jP1JSxil+PppdLh\nG3wEkyMxAgMBAAECggEAAqQ+8TC6xhqfwn5jtemuGL2Vn4r4o0i+RAHwFqcbCaTt\nubxmv+Xz699Yx/AL9MotzpoSNR2GCyU9wVQNMHRBG9QvRuly0weJ7zoHSl1M63b0\nJiSleyEBxwd+yCHmEbEpx22xuEsqQukWs6J56SJFaDxmqCNqi5JyZ38B4Zbz/ZJc\nvithZ3ZHAvl1aerGnj/ngQrpXsGfMFEihZIuhun68df5LCK4FbTxBv0IHf5F12ql\n9NIT/NPhJj2gzpYTWwtK/Ude8cluqNK2gVdaKjBIgXElFsgJhh9ZtJUcfZd7inIL\nMdo6mSfzKMwCvBvWuQ+LFjPHhXFfNvSdcg76S7oEZQKBgQDaZoOrnY08Di6vOJkN\nwUfRnkhdbnh9nwyI7Io2tKikSWZMf43emPWL9BNRfvWWKbvCJ62MnnEdosd8bwsW\noLK9BTZY7kI2sgqAhCgCTErmLlvxSVJ9rCRWN7kJwfO6FFXeZybPeEEwPRaenLaq\nXqVoJLJSQKdvXLqSffrSr7K39QKBgQDFiEHmY5M+A0l+Bupi4OQlNFp3CZWb9hOv\n7JDR5AGCobSBYRnNnvXzfEGoAKSbXzoxS5rIOMt9pDMcsYdkTxNiCJCPYBYS5ZwN\nIdP7F/9kSR/M+CV0ZXAMBKV4fOL+LN+IDp+VXVpWJ+dCXT+JeHw8rFsGoLkvQToJ\nKvza6X4EzQKBgQDHCexv5+tCUy6KtAsQtRhN2nHa7IXU/rF+zAv+ZVDYQKiBiTHz\nLvWBMdS1Tf5ldu1Nubl50SAHwUUKi2zQl22txGVOUP15OXNGwqpvxbXw50kVshwC\nunJ3PNtfICqOaGAFi36cT90hKFtH/EyhIhaeverh+VhermS+gx+nCUbYTQKBgQCu\nVs5i+uuPxfLtSklAL+DsfUKC4XCsEAncMVy4AxbaJsJblknh0zScS8Te9IJTpz6D\nF4lqwcXIBE4gOweWHryqv4hnIpUY5JJQfNTNPqbn6iopC7JzArxbvxYUO5VUZGJ9\ngPqUJ6p9dAaF6isTt8Ve/3fvZ5dJ/7WrNceppn7U2QKBgQDS3vVRJyJGWZ0V5AfP\ndfE1/xkteAT5SH4ICFl4yq8hviPa4lyhhNGB9L/5BnV6Y9cG8/yPS2EGolEE7sW8\nl0x8bX80EBKDjGZeVTb/gzWhWs9zAiDXk7J4U/SACWrfI6pfDbKeAwSW8ZpAtrry\nUjb0SlLg8RnyMBuQGJaKPco1Jw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-ocr-service@chemicalfinder.iam.gserviceaccount.com",
+  "client_id": "101275172817441462924",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-ocr-service%40chemicalfinder.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
